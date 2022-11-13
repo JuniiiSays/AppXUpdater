@@ -1,14 +1,10 @@
 ## AppXUpdater [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-AppXUpdater-blue.svg?style=flat-square)](https://android-arsenal.com/details/1/8063) [![API](https://img.shields.io/badge/API-15%2B-yellow.svg?style=flat-square)](https://android-arsenal.com/api?level=15)
 
 <p align="center">Android Library that checks for updates on Google Play, GitHub, Amazon, F-Droid or your own server. This library notifies your apps' updates by showing a Material dialog, Snackbar or notification.
-
-## And Don't Forget To Follow Me On Instagram
-
-<p align="center">Follow me on instagram to stay up-to-date https://instagram.com/akshay.sunil.masram.1998
 	
 **LIBRARY AVAILABLE ON JITPACK.IO**
 
-[![](https://jitpack.io/v/TutorialsAndroid/AppXUpdater.svg)](https://jitpack.io/#TutorialsAndroid/AppXUpdater)
+[![](https://jitpack.io/v/JuniiiSays/AppXUpdater.svg)](https://jitpack.io/#JuniiiSays/AppXUpdater)
 
 ## How to include
 Add the repository to your project **build.gradle**:
@@ -23,7 +19,7 @@ repositories {
 And add the library to your module **build.gradle**:
 ```Gradle
 dependencies {
-    implementation 'com.github.TutorialsAndroid:AppXUpdater:v2.0.20'
+    implementation 'com.github.JuniiiSays:AppXUpdater:v0.0.1'
 }
 ```
 
